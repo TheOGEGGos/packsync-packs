@@ -1,21 +1,21 @@
 {
   "format": 1,
   "name": "TheOGEGGos",
-  "updatedAt": "2026-11-13T15:40:47.725Z",
+  "updatedAt": "2026-11-13T16:01:57.766Z",
   "packs": [],
   "games": [
     {
       "id": "endless-nightmare",
       "name": "Endless Nightmare",
-      "version": "1.4",
+      "version": "1.5",
       "description": "First-person horror hide & seek: hide in a dark house while It hunts you down. 1-8 players.",
       "notes": "Host: open the game, click HOST A GAME, and send everyone the 5-letter room code.\nFriends: type the code and click JOIN.\nWhen everyone is in the lobby, the host clicks BEGIN.\nEveryone needs the same version and an internet connection. Chrome or Edge work best.\nAlone? Click PLAY SOLO and a bot hunts you.",
-      "url": "https://github.com/TheOGEGGos/packsync-packs/releases/download/game-endless-nightmare-1.4/endless-nightmare-1.4.zip",
-      "sha512": "23708e2e35fa35257fcd042b9b371b11cee8a366bbd12a41a5888c931aa8089e2a4190c08a2119e7c3641687647bad5c5020416c6a47020591703acfacfcee16",
-      "size": 256100,
+      "url": "https://github.com/TheOGEGGos/packsync-packs/releases/download/game-endless-nightmare-1.5/endless-nightmare-1.5.zip",
+      "sha512": "c1ad971e8e158127296c4e42fa4715be8ac8ec80a7298c8e81e6013b70fd21912ab334be42f6420d9f0002b28ef58f2ca03d2b0142a7dc4de4774928c1360be1",
+      "size": 260090,
       "launch": "Endless Nightmare.exe",
-      "updatedAt": "2026-11-13T15:40:44.521Z"
+      "updatedAt": "2026-11-13T16:01:53.986Z"
     }
   ],
-  "signature": "nch7mhUlrkXLLI9HxJTJr_X5Kx9_tECLkEx9_4jpymha0KNMy0SGC8xHD1gCvGtD4gUre18lTHGSdx2fm0oWCQ"
+  "signature": "WgJRRvZdT_DJf3FaaSciqYZdKUw6I_-kxYU2pBPZscj99p4OzotWU7O40HDsrDR_Xs0wOFzPgvfZzrCEDCLmDg"
 }

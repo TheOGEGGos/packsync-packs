@@ -1,21 +1,21 @@
 {
   "format": 1,
   "name": "TheOGEGGos",
-  "updatedAt": "2026-11-13T20:34:04.641Z",
+  "updatedAt": "2026-11-14T01:54:30.053Z",
   "packs": [],
   "games": [
     {
       "id": "endless-nightmare",
       "name": "Endless Nightmare",
-      "version": "1.8",
+      "version": "1.81.0",
       "description": "First-person horror hide & seek: hide in a dark house while It hunts you down. 1-8 players.",
-      "notes": "Host: open the game, click HOST A GAME, and send everyone the 5-letter room code.\nFriends: type the code and click JOIN.\nWhen everyone is in the lobby, the host clicks BEGIN.\nEveryone needs the same version and an internet connection. Chrome or Edge work best.\nAlone? Click PLAY SOLO and a bot hunts you.",
-      "url": "https://github.com/TheOGEGGos/packsync-packs/releases/download/game-endless-nightmare-1.8/endless-nightmare-1.8.zip",
-      "sha512": "91fcf232380dd6e346100effac0deefcfa56746e7a5f9ea03c800b76dba2295aa53586c89098e536d4ebb3ff31d24f05e8ff39880cdfd60a0b363d5b1b2b9632",
-      "size": 273374,
+      "notes": "Host: open the game, click HOST A GAME, then COPY ROOM CODE and send it to your friends.\nFriends: paste the code into the box and click JOIN (it can take a few seconds to connect).\nIn the lobby the host picks the game mode (Hide and seek, Infected or Imposter) and who is It, then clicks BEGIN.\nEveryone needs the same version and an internet connection. No browser needed: it runs in its own window.\nIf Windows says it protected your PC, click More info, then Run anyway.",
+      "url": "https://github.com/TheOGEGGos/packsync-packs/releases/download/game-endless-nightmare-1.81.0/endless-nightmare-1.81.0.zip",
+      "sha512": "3437b4e9ead09149ebed9958004ef27dff50d7e18b4f1bd4c761646cd5727468a5fcfde2f7b6dc2f2a0fdd764b4e0549064dadb4d92af4706d52ca3c52f9e061",
+      "size": 49079320,
       "launch": "Endless Nightmare.exe",
-      "updatedAt": "2026-11-13T20:34:01.137Z"
+      "updatedAt": "2026-11-14T01:54:12.838Z"
     }
   ],
-  "signature": "y3_14eFWeQW3xUnXZKJtn_4r9FfHgVYjTINh9wdvHxA5CcRx7VyoM_S9hsKJKm6Jp_fKwPQ7Jay4Y3l0JcyXAw"
+  "signature": "T96szg_kJ92ZLwele1mTSYeZhKSvHLfh9UKw7kTmmtaHFMXDRS_LKRjVqdWAroQmj-M7uOsG_KI6pZ4bFqHtDQ"
 }

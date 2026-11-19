@@ -1,21 +1,21 @@
 {
   "format": 1,
   "name": "TheOGEGGos",
-  "updatedAt": "2026-11-14T22:28:58.132Z",
+  "updatedAt": "2026-11-19T22:48:35.581Z",
   "packs": [],
   "games": [
     {
       "id": "endless-nightmare",
       "name": "Endless Nightmare",
-      "version": "1.82.6",
+      "version": "1.83.0",
       "description": "First-person horror hide & seek: hide in a dark house while It hunts you down. 1-8 players.",
-      "notes": "Host: open the game, click HOST A GAME, then COPY ROOM CODE and send it to your friends.\nFriends: paste the code into the box and click JOIN (it can take a few seconds to connect).\nIn the lobby the host picks the game mode (Hide and seek, Infected or Imposter) and who is It, then clicks BEGIN.\nEveryone needs the same version and an internet connection. No browser needed: it runs in its own window.\nIf Windows says it protected your PC, click More info, then Run anyway.",
-      "url": "https://github.com/TheOGEGGos/packsync-packs/releases/download/game-endless-nightmare-1.82.6/endless-nightmare-1.82.6.zip",
-      "sha512": "c3b1ad1fbc6f090f35d0be2f0853e011a992c66fd909c9a65f5885f20b2e9a290638bb2604d0254698558e1400028048997dcda13ae70440d7d814c53418f890",
-      "size": 128314260,
+      "notes": "Open the game and click MULTIPLAYER, then type your name.\nHost: click HOST A GAME, then COPY ROOM CODE and send it to your friends.\nFriends: paste the code into the box and click JOIN (it can take a few seconds to connect).\nIn the lobby the host picks the game mode (Hide and seek, Infected or Imposter) and who is It, sets the rules in GAME SETTINGS, then clicks BEGIN.\nEveryone needs the same version and an internet connection. No browser needed: it runs in its own window.\nIf Windows says it protected your PC, click More info, then Run anyway.",
+      "url": "https://github.com/TheOGEGGos/packsync-packs/releases/download/game-endless-nightmare-1.83.0/endless-nightmare-1.83.0.zip",
+      "sha512": "2f88155611bbbe4f8edfa9a9e9f28d7977a7ccdeb0d7d7f8f8b67c11dd9749395a085b3f2db5d63906294c4c10b984e62df38e753c52924c033644c5cb73695f",
+      "size": 130804888,
       "launch": "Endless Nightmare.exe",
-      "updatedAt": "2026-11-14T22:28:17.865Z"
+      "updatedAt": "2026-11-19T22:48:04.339Z"
     }
   ],
-  "signature": "6KY7XZ3uZxz1pYCKeiFsOH0aGoin0w2qUX_J30bCVnKlbtwQo_8H6Vo-ZAux-YsM0BT51__xwS1RqmwntriMAg"
+  "signature": "oQrIK1RctVdAboQy3kB-2tL8F62Ygv3xjmnP2wX7TvZzBXPhpQ8yHCBOqWusg4E368h8PWL7FnDZ106FMhUICg"
 }

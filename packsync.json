@@ -1,21 +1,21 @@
 {
   "format": 1,
   "name": "TheOGEGGos",
-  "updatedAt": "2026-11-21T22:33:13.373Z",
+  "updatedAt": "2026-11-22T00:15:07.496Z",
   "packs": [],
   "games": [
     {
       "id": "endless-nightmare",
       "name": "Endless Nightmare",
-      "version": "0.6",
+      "version": "0.6.1",
       "description": "First-person horror hide & seek: hide in a dark high school while The Hollow Man hunts you down. 1-8 players.",
       "notes": "Open the game and type your name on the main menu.\nHost: click HOST A GAME, then COPY ROOM CODE and send it to your friends.\nFriends: paste the code into the box under JOIN BY CODE and click JOIN (it can take a few seconds to connect).\nIn the lobby, use the arrows under your feet to pick your character. The host picks the map, the game mode (Hide and seek or Infected) and who is It, sets the rules in GAME SETTINGS, then clicks START.\nEveryone needs the same version and an internet connection. No browser needed: it runs in its own window.\nIf Windows says it protected your PC, click More info, then Run anyway.",
-      "url": "https://github.com/TheOGEGGos/packsync-packs/releases/download/game-endless-nightmare-0.6/endless-nightmare-0.6.zip",
-      "sha512": "f7f3800ef3edc8528d67d4e326e1af3d5066fb8331c9ac19fd7b7eeb18e8c516cc7e803b58831405bfd1780ce7f0c0831e1aace8aea934ada95ac7dd90d831f4",
-      "size": 1376606676,
+      "url": "https://github.com/TheOGEGGos/packsync-packs/releases/download/game-endless-nightmare-0.6.1/endless-nightmare-0.6.1.zip",
+      "sha512": "38933f0e7a20adc1059ed2bc9bf478696a838064ff146edddf4432b10eb3b619686087be37fc90944adae274cf9d3df9e6aa892a529749a2bc0afb03ceae8fd6",
+      "size": 404079181,
       "launch": "Endless Nightmare.exe",
-      "updatedAt": "2026-11-21T22:20:01.471Z"
+      "updatedAt": "2026-11-22T00:12:18.187Z"
     }
   ],
-  "signature": "URXSWwy-dfEus4X3MMuPchtSXzMImCUzT0jx_t1_5UxC9kpWUFicjgGDYICRNeOyvfo_nD2kXcGl0l_0ajfQBg"
+  "signature": "iFWtuOcl4nfcFoJ-0PAR52amuAk9ISp5H2RCF8Dj40ze7-Ie5mXXgxt58JVST1lc9gBWjexWVvYAsTfzk9HAAw"
 }

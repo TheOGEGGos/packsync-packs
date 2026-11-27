@@ -1,22 +1,22 @@
 {
   "format": 1,
   "name": "TheOGEGGos",
-  "updatedAt": "2026-11-25T01:05:16.970Z",
+  "updatedAt": "2026-11-27T02:20:19.156Z",
   "packs": [],
   "games": [
     {
       "id": "endless-nightmare",
       "name": "Endless Nightmare",
-      "version": "0.6.3",
-      "description": "First-person horror hide & seek: hide in a dark high school while The Hollow Man hunts you down. 1-8 players.",
+      "version": "0.7.0",
+      "description": "First-person horror hide & seek on four maps: hide while a monster hunts you down. 1-7 players.",
       "notes": "Open the game and type your name on the main menu.\nHost: click HOST A GAME, then COPY ROOM CODE and send it to your friends.\nFriends: paste the code into the box under JOIN BY CODE and click JOIN (it can take a few seconds to connect).\nIn the lobby, use the arrows under your feet to pick your character. The host picks the map, the game mode (Hide and seek or Infected) and who is It, sets the rules in GAME SETTINGS, then clicks START.\nEveryone needs the same version and an internet connection. No browser needed: it runs in its own window.\nIf Windows says it protected your PC, click More info, then Run anyway.",
-      "changelog": "The Hollow Man has a new walk: hunched under a hump, head locked on you, claws raised, and a long low sprint on Shift.\nEyeless sight: as It the world is black and white and hiders in view glow red (they fade if they stand still).\nDead Angle: he's slower while a hider looks at him, faster when nobody does.\nDuring the hiding countdown It prowls the grounds outside.\nNew school furniture (desks, blackboards, cafeteria, gym hoops, vending machines), graffiti, taller ceilings, wider doors, grass outside.\nMISSING posters board in the lobby. Flashlight is now right-click; Esc lists all the keys.\nWetter, smoother kill. Rebuilt characters (Marcus has shorts now). Download is much smaller.",
-      "url": "https://github.com/TheOGEGGos/packsync-packs/releases/download/game-endless-nightmare-0.6.3/endless-nightmare-0.6.3.zip",
-      "sha512": "0d41c6a0febd9914f2cedb8b3c53b5e030a5f9b89eedac696ccd7d0f9184a6f3953de1f5b9147cae8fd8f8bd27c8bd238c384efababb82fc7c2efefb89abbeed",
-      "size": 407042499,
+      "changelog": "Big update: three new maps (Mall, Hospital, Future House) in the lobby's Map list. Three new monsters to pick on MONSTERS: The Borrowed, The Warden and The Ceiling Crawler, plus new Hollow Man powers (Red Lock, The Stillness). AI hiders (lobby, 0-7). Hider escape moves: Echo Step (Q) and Blink (R). Coins, case-file tasks and THE VAN shop for outfits and emotes. A new settings screen with rebindable keys and fine-tune graphics. Emotes (hold B). New game icon.",
+      "url": "https://github.com/TheOGEGGos/packsync-packs/releases/download/game-endless-nightmare-0.7.0/endless-nightmare-0.7.0.zip",
+      "sha512": "2edeb571e78557df8b15477ec39ffa354c90d7f57f1c00e9baf4f0a64bc634526c2aeede816b47f5cc9400835dd0e0c6e5008e0caaced055cb6df96bb1a15962",
+      "size": 418832253,
       "launch": "Endless Nightmare.exe",
-      "updatedAt": "2026-11-25T01:01:59.399Z"
+      "updatedAt": "2026-11-27T02:19:03.301Z"
     }
   ],
-  "signature": "kKgGvMVOpLqMPxfXHbG7H4DnzxLi7trgkSsXETeOV_LKYpANwEFOPWR6lH6hzCwCVRwpHv6zTwAC8-mEjGlmAQ"
+  "signature": "hz2_g0jDbQf9ESgpjKPgXhw9iF5L1HzxB4Wt0mfzvtx1qUGEmXFg01TCyB5E7DRPt1IUXB6kiyoVOLWgf1HNCg"
 }

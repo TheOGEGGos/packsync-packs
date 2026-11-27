@@ -1,22 +1,22 @@
 {
   "format": 1,
   "name": "TheOGEGGos",
-  "updatedAt": "2026-11-27T02:20:19.156Z",
+  "updatedAt": "2026-11-27T06:44:16.715Z",
   "packs": [],
   "games": [
     {
       "id": "endless-nightmare",
       "name": "Endless Nightmare",
-      "version": "0.7.0",
+      "version": "0.7.2",
       "description": "First-person horror hide & seek on four maps: hide while a monster hunts you down. 1-7 players.",
       "notes": "Open the game and type your name on the main menu.\nHost: click HOST A GAME, then COPY ROOM CODE and send it to your friends.\nFriends: paste the code into the box under JOIN BY CODE and click JOIN (it can take a few seconds to connect).\nIn the lobby, use the arrows under your feet to pick your character. The host picks the map, the game mode (Hide and seek or Infected) and who is It, sets the rules in GAME SETTINGS, then clicks START.\nEveryone needs the same version and an internet connection. No browser needed: it runs in its own window.\nIf Windows says it protected your PC, click More info, then Run anyway.",
-      "changelog": "Big update: three new maps (Mall, Hospital, Future House) in the lobby's Map list. Three new monsters to pick on MONSTERS: The Borrowed, The Warden and The Ceiling Crawler, plus new Hollow Man powers (Red Lock, The Stillness). AI hiders (lobby, 0-7). Hider escape moves: Echo Step (Q) and Blink (R). Coins, case-file tasks and THE VAN shop for outfits and emotes. A new settings screen with rebindable keys and fine-tune graphics. Emotes (hold B). New game icon.",
-      "url": "https://github.com/TheOGEGGos/packsync-packs/releases/download/game-endless-nightmare-0.7.0/endless-nightmare-0.7.0.zip",
-      "sha512": "2edeb571e78557df8b15477ec39ffa354c90d7f57f1c00e9baf4f0a64bc634526c2aeede816b47f5cc9400835dd0e0c6e5008e0caaced055cb6df96bb1a15962",
-      "size": 418832253,
+      "changelog": "Ability buttons in the bottom-right corner with cooldown clocks, and a center dot. New MONSTERS page (turn the monster, PLAY AS IT) and a \"Your monster\" pick in the lobby for everyone. Esc menu shows your role and its keys. Each map has its own neon-lit building front in the lobby. THE VAN: 4 extra slots to unlock for 100 coins; new surgical mask. Fixes: AI hiders no longer teleport and move at player speed; Hollow Man's grey view no longer turns dark rooms black (faint outlines instead); crash when switching to the Mall fixed; Warden cooldowns shown right. Secret walls setting removed.",
+      "url": "https://github.com/TheOGEGGos/packsync-packs/releases/download/game-endless-nightmare-0.7.2/endless-nightmare-0.7.2.zip",
+      "sha512": "a7794801b0fc21833839e42c7e5dfed366cb79e873935192b458ed57256f15ad093589b5d757ba0a00e0e7bb854e30e5d7f9f646a657139050c124eb7ee011dd",
+      "size": 418891069,
       "launch": "Endless Nightmare.exe",
-      "updatedAt": "2026-11-27T02:19:03.301Z"
+      "updatedAt": "2026-11-27T06:42:53.922Z"
     }
   ],
-  "signature": "hz2_g0jDbQf9ESgpjKPgXhw9iF5L1HzxB4Wt0mfzvtx1qUGEmXFg01TCyB5E7DRPt1IUXB6kiyoVOLWgf1HNCg"
+  "signature": "Rh0V2Au39-7W2dZlJYswVcxBhGrDol-flCNS-sPvpGq8TTpO9zucQ-zXVC2bdTtdNrZF8vDNuvRmzhhbLYhoBA"
 }
